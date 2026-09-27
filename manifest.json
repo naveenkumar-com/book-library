@@ -1,0 +1,16 @@
+{
+  "name": "Master Book Library",
+  "short_name": "Book Library",
+  "description": "74 book study guides — chapters, key concepts, lessons, and reflections.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F3EFE2",
+  "theme_color": "#F3EFE2",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
